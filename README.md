@@ -7,6 +7,11 @@ Objective: Write a program to collect book information from http://books.toscrap
 The program is located in Extract_book_details.ipynb in jupyter notebook format.
 This file is reading secrets from secrets.txt file to read connections for MYSQL server (password and other details has been changed in this file)
 
+The file is running succesfully in the system, It created dump file(attach is the dump file and xml file from the output)
+The file can be run directly in the jupyter notebook format. Except for the MYSQL connection as I could not set up remote connection due to time restrictions.
+
+
+
 
 
 
